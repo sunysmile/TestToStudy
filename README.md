@@ -1,5 +1,6 @@
 #描述#
 这是一个时间日期格式转换插件
+
 #如何使用#
 #first step#
 import dateformat from 'kungeek-dateformat';
