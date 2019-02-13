@@ -1,11 +1,11 @@
-#描述#
-这是一个时间日期格式转换插件
+#描述#/n
 
-#如何使用#
-#first step#
+这是一个时间日期格式转换插件/n
+
+#如何使用#/n
+
 import dateformat from 'kungeek-dateformat';
 
-#two step#
 dateformat((new Date()).getTime(),'^',':'); // 2019^02^13 15:43:30
 dateformat((new Date()).getTime(),'-',':'); // 2019-02-13 15:43:30
 dateformat((new Date()).getTime(),'-'); // 2019-02-13
