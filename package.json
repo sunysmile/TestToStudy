@@ -1,0 +1,16 @@
+{
+    "name": "kungeek-dateformat",
+    "version": "1.0.0",
+    "description": "a plugin which can show time in chinese and english",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "Keywords":"",
+    "author": "wanghui",
+    "license": "ISC"
+  }
